@@ -1,0 +1,17 @@
+Package: interlimb
+Type: Package
+Title: An R Package for Assessing Interlimb Asymmetries
+Version: 0.0.1
+Author: Aaron Pearson
+Maintainer: Aaron Pearson <aaronzpearson@outlook.com>
+Description: This package provides the ability to efficiently assess interlimb asymmetries regardless of the parameter tested.    
+  The package was built to provide users with one function that encompasses every step that is required to calculate and assess
+  interlimb asymmetries. Those with experience with interlimb asymmetries may opt to explore the helper functions 
+  to gain greater insights into the various interlimb asymmetry calculations, and their reliability measures.    
+  This package is written nearly exclusively in base R to minimize dependencies. 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+License: NA
+Imports:
+  reshape2
